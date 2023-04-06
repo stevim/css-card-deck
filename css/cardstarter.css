@@ -34,8 +34,12 @@
     font-size: 42px; }
   .card.no-border {
     border: 0; }
+  .card.lighterShadow {
+    box-shadow: 2px 2px 3px 0 rgba(10, 10, 10, 0.55); }
   .card.shadow {
     box-shadow: 2px 2px 3px 0 rgba(41, 41, 41, 0.75); }
+  .card.darkerShadow {
+    box-shadow: 2px 2px 3px 0 rgba(80, 80, 80, 0.95); }
   .card.outline {
     background-image: none;
     background-color: rgba(195, 195, 195, 0.5);
